@@ -40,4 +40,5 @@ button.addEventListener("click", (event) => {
 
   textoEdad.textContent = anios;
   seccionEdad.classList.remove("oculto");
+  textoEdad.classList.add("animar");
 });
