@@ -24,7 +24,7 @@ body {
 }
 
 input {
-    width: 100%;
+    width: 92%;
     padding: 10px;
     margin: 10px 0;
     border-radius: 12px;
@@ -44,7 +44,6 @@ button {
 .oculto {
     display: none;
 }
-
 
 @keyframes rebote {
     0% {
